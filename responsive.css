@@ -1,0 +1,17 @@
+@media (max-width:739px) {
+      
+      .btn-1{
+            width: calc(100vw - 60px);
+            height: 15px;
+            line-height: 0;
+      }
+
+      .message-text{
+            font-size: 16px !important;
+      }
+
+      .message-text::before{
+            display: none !important;
+      }
+
+}
