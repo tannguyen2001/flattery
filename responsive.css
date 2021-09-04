@@ -8,10 +8,15 @@
 
       .message-text{
             font-size: 16px !important;
+
       }
 
       .message-text::before{
             display: none !important;
+      }
+
+      .thanks{
+            width: 150px;
       }
 
 }
